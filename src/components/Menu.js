@@ -8,10 +8,10 @@ function Menu({ recipes }) {
       <h1> REACTIFY &#9738; </h1>
 
       <nav>
-        <a href="#">Overview</a>
-        <a href="#">Track</a>
-        <a href="#">Albums</a>
-        <a href="#">Follow</a>
+        <a href="https://reactjs.org/">Overview</a>
+        <a href="https://reactjs.org/">Track</a>
+        <a href="https://reactjs.org/">Albums</a>
+        <a href="https://reactjs.org/">Follow</a>
       </nav>
 
 
