@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Top Songs 2020-2021",
+    "ingredients": [
+      { "name": "Lose control-single - ", "artist": "Meduza, Becky Hill & Goodboys" },
+      { "name": "Heather - ", "artist": "Conan Grey" },
+      { "name": "Mariners Apartement Complex - ", "artist": "Lana Del Rey" },
+      { "name": "Instant Crush - ", "artist": "Daft Punk" },
+      { "name": "(Not) The End Of The World - ", "artist": "Max Pope" },
+      { "name": "Vijf Dagen - ", "artist": "Bazart" }
+    ],
+    "steps": [
+      "Lose Control is a song from 2019 by the Italian dj-trio Meduza, the British singer Becky Hill and the British house trio Goodboys.",
+      "Heather is a song by American singer-songwriter Conan Gray released through Republic Records. Originally released as a track on Gray's debut studio album Kid Krow in March 2020, it was released as the sixth single in September 2020 after becoming a sleeper hit. Heather was written by Gray and produced by Dan Nigro with additional production by Jam City.",
+      "Mariners Apartment Complex is a song by American singer and songwriter Lana Del Rey, released on September 12, 2018, through Polydor and Interscope Records, as the first single from her sixth studio album, Norman Fucking Rockwell! (2019). The song was written and produced by Del Rey and Jack Antonoff, it marks the first collaboration between Del Rey and Antonoff.",
+      "Instant Crush is a song written, produced, and performed by French electronic music duo Daft Punk and American musician Julian Casablancas. It was released as the fourth single from Daft Punk's fourth studio album, Random Access Memories (2013), on 22 November 2013.[1] It was number 58 on Rolling Stone magazine's 100 Best Songs of 2013 list",
+      "Directed, filmed and edited by Ella Turner-Bridger, Concept by Max Pope and Feedy Frizzi",
+      "℗ 2018 Bazart under exclusive license to [PIAS] Recordings Belgium"
+    ]
+  },
+  {
+    "name": "Top Songs 2019-2020",
+    "ingredients": [
+      { "name": "Mystery of Love - ", "artist": "Sufjan Stevens" },
+      { "name": "Fever - ", "artist": "Dua Lipa" },
+      { "name": "So Beautiful - ", "artist": "DPR IAN" },
+      { "name": "Rex Orange County - ", "artist": "It's not the same anymore" },
+      { "name": "Big Poppa - ", "artist": "The Notorious B.I.G" }
+    ],
+    "steps": [
+      "Mystery of Love is a song written and performed by American singer-songwriter Sufjan Stevens and produced by Thomas Bartlett. It was self-released digitally, under license to Madison Gate Records and Sony Classical, on December 1, 2017.",
+      "Fever is a song by the British singer Dua Lipa, in collaboration with the Belgian singer Angèle. The song, released on October 30, 2020, is considered the sixth single from the album Future Nostalgia, or at least its digital edition."
+    ]
+  }
+]

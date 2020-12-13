@@ -24,9 +24,141 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>Reactify</title>
   </head>
   <body>
+
+    <style media="screen">
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap');
+
+    ::selection {
+      background-color:#2ec4b6;
+      color: #fdfffc;
+    }
+
+
+      ul {
+        padding: 6rem;
+        border-radius: 2rem 2rem 2rem;
+        line-height: 1.2rem;
+        box-shadow: -3px 0px 25px 1px rgba(0, 0, 0, 0.17);
+        transition: 0.7s;
+        background-color:#2ec4b6;
+      }
+
+
+      ul:hover {
+      transition: 0.3s;
+      box-shadow: -3px 0px 55px 1px rgba(0, 0, 0, 0.30);
+      margin-top: 2rem;
+      padding: 6.2rem;
+
+
+      }
+        ul li {
+          color: #fdfffc;
+          line-height: 2.5rem;
+          font-weight: 300;
+        }
+
+
+
+      body {
+        box-sizing: border-box;
+        padding: 2rem;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 62,5%;
+        font-family: Roboto;
+        background-color: #ffffff;
+        background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%232ec4b6' fill-opacity='0.1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+      }
+
+      h1 {
+        font-size: 2rem;
+        color: #fdfffc;
+        background-color:#2ec4b6;
+        padding: 1.2rem;
+        border-radius: 5rem 5rem 5rem;
+        box-shadow: -3px 0px 25px 1px rgba(0, 0, 0, 0.13);
+
+      }
+
+      h2 {
+        color: #2ec4b6;
+        padding: 1.2rem;
+        border-bottom: solid 0.1px;
+      }
+
+
+      h3 {
+        color: #2ec4b6;
+        background-color:#fdfffc;
+        padding: 1rem;
+        display: inline-block;
+        border-radius: 5rem 5rem 0rem;
+      }
+
+      p {
+        color: #011727;
+        font-weight: 800;
+        font-style: italic;
+        padding: 1.3rem;
+      }
+
+      nav {
+        display: flex;
+        flex-direction: column;
+      }
+
+      nav a {
+        color: #2ec4b6;
+        text-decoration: none;
+        padding: 1.2rem;
+        transition: 0.5s;
+      }
+
+      nav a:hover {
+        font-size: 1.3rem;
+        transition: 0.5s;
+      }
+
+      nav a:nth-child(3) {
+      background-color: #2ec4b6;
+      border-radius: 5rem;
+      padding: 0.8rem;
+      color: #fdfffc;
+      display: inline-block;
+      }
+
+
+      @media(min-width: 1200px) {
+
+        body {
+          max-width: 1200px;
+        }
+
+        nav {
+          display: flex;
+          flex-direction: row;
+        }
+
+        nav a:nth-child(3) {
+          display: inline-block;
+          font-size: 0.9rem;
+        }
+
+
+      }
+
+
+
+
+
+
+
+    </style>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
@@ -40,4 +172,6 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
   </body>
+
+
 </html>
